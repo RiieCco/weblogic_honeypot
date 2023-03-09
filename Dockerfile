@@ -8,4 +8,4 @@ COPY . /usr/src/app/
 
 EXPOSE 8000
 
-CMD ['python', 'weblogic_server.py']
+CMD [ "python", "weblogic_server.py" ]
